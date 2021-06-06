@@ -1,3 +1,13 @@
+django
 gunicorn
 django-heroku
 whitenoise
+numpy
+pandas
+selenium
+matplotlib
+sqlalchemy
+scikit-learn
+pymysql
+openpyxl
+requests
