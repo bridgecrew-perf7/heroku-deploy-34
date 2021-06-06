@@ -1,7 +1,6 @@
 import base64
 from io import BytesIO, IOBase
 from os import close
-from typing import final
 from urllib import parse
 from django.shortcuts import render
 from django.http import HttpResponse, response
